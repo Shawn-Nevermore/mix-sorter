@@ -1,0 +1,12 @@
+{
+  "name": "mix-sorter",
+  "version": "1.0.0",
+  "description": "这是一个轻量的混合字符串排序工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['sort','mix sort','sorting'],
+  "author": "Xu Xiao",
+  "license": "MIT"
+}
